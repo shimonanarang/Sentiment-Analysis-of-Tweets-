@@ -12,6 +12,6 @@ In this project, two sets of data are used.
 
 Chronology followed:
 1. Data Cleaning
-2. Exploratory data analysis: determine political party of given tweet (using) and word clouds
+2. Exploratory data analysis: determine political party of given tweet (using fuzyywuzzy) and word clouds
 3. Model preparation: multiple classification algorithms for generic tweets (logistic regression, k-NN, Naive Bayes, SVM, decision trees, ensembles (RF, XGBoost)), where each tweet is considered a single observation/example. 
 4. Model Implementation: Implementing models on test data and best performing model used to predict sentiment of Canadian election tweets
